@@ -50,16 +50,16 @@ I build full-stack web apps and I'm now moving into machine learning, with the g
 
 | Project | Description | Tech |
 |---|---|---|
-| 🌱 [**Bloomly**](https://github.com/amandi-konara/Bloomly) · [live](https://bloomly-delta.vercel.app) | Wellness and habit tracker with mood check-ins, a journal calendar and weekly insights | React, Express, MongoDB, JWT |
-| 🍳 [**Recipe Book**](https://github.com/amandi-konara/Recipe-Book) | Recipe browser with search, filters, login-protected bookmarks and dark mode | Vue 3, TypeScript, Pinia |
-| 🧾 [**SnapSplit**](https://github.com/amandi-konara/SnapSplit) *(in progress)* | Mobile app: scan a receipt, extract the items with OCR and split the bill between friends | Flutter, Dart, OCR |
+|  [**Bloomly**](https://github.com/amandi-konara/Bloomly) · [live](https://bloomly-delta.vercel.app) | Wellness and habit tracker with mood check-ins, a journal calendar and weekly insights | React, Express, MongoDB, JWT |
+|  [**Recipe Book**](https://github.com/amandi-konara/Recipe-Book) | Recipe browser with search, filters, login-protected bookmarks and dark mode | Vue 3, TypeScript, Pinia |
+|  [**SnapSplit**](https://github.com/amandi-konara/SnapSplit) *(in progress)* | Mobile app: scan a receipt, extract the items with OCR and split the bill between friends | Flutter, Dart, OCR |
 
 ### 🤝 Team Projects
 
 | Project | Description | My role | Tech |
 |---|---|---|---|
-| 🚑 [**ResQ-OS**](https://github.com/sithumkoswattage/ResQ-OS) | Emergency response platform: incident command centre, live unit tracking on a map and drive-time-based dispatch | Frontend development (Vue) and Docker setup | Vue, Express, MongoDB, Docker |
-| ⚙️ [**Telos**](https://github.com/sithumkoswattage/Telos) | Distributed job-processing system that spreads compute-heavy work across nodes using a priority queue | Job submission and dashboard UI, jobs API endpoint and tests | Go, PostgreSQL, Docker |
+|  [**ResQ-OS**](https://github.com/sithumkoswattage/ResQ-OS) | Emergency response platform: incident command centre, live unit tracking on a map and drive-time-based dispatch | Frontend development (Vue) and Docker setup | Vue, Express, MongoDB, Docker |
+|  [**Telos**](https://github.com/sithumkoswattage/Telos) | Distributed job-processing system that spreads compute-heavy work across nodes using a priority queue | Job submission and dashboard UI, jobs API endpoint and tests | Go, PostgreSQL, Docker |
 
 ---
 
