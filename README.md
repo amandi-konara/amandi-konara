@@ -7,7 +7,7 @@ I build full-stack web apps and I'm now moving into machine learning, with the g
 - 🔭 Currently building **SnapSplit**, a mobile receipt scanner and expense splitter built with Flutter and OCR
 - 🌱 Learning **machine learning with Python**: NumPy, Pandas, scikit-learn
 - 💼 Looking for a **Software Engineering / AI/ML internship**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/amandi-konara-41a9ba37b) or at amandiii161@gmail.com
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/amandi-konara) or at amandiii161@gmail.com
 
 ---
 
@@ -18,7 +18,6 @@ I build full-stack web apps and I'm now moving into machine learning, with the g
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -26,8 +25,6 @@ I build full-stack web apps and I'm now moving into machine learning, with the g
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-**Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 **Backend & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
